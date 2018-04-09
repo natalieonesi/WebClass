@@ -1,0 +1,22 @@
+/*
+* Natalie Onesi	
+* 9 April 2018 
+* Remastered Metadata with CSS 
+*/
+
+
+/* The universal selector */
+
+* {
+	margin: 2px 5px 
+}
+
+/* Put body attributes here */
+
+body {
+	background-color: #B75858; 
+}
+
+p { 
+	color: black
+}
