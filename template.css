@@ -1,6 +1,6 @@
 /*
 * Natalie Onesi	
-* 9 April 2018 
+* 13 April 2018 
 * Remastered Metadata with CSS 
 */
 
@@ -11,10 +11,26 @@
 	margin: 2px 5px 
 }
 
-/* Put body attributes here */
 
 body {
 	background-color: #B75858; 
+	font-family: cursive, arial;
+	font-size: 87.5%
+}
+
+h1 {
+	font-style: italic;
+	font-size: 400%;
+	text-align: center;
+	text-decoration: underline;
+ }
+ 
+ .figure1 {
+ float: left; 
+ }
+ 
+ .figure2 {
+clear: left 
 }
 
 p { 
