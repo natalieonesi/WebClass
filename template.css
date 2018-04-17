@@ -8,14 +8,15 @@
 /* The universal selector */
 
 * {
-	margin: 2px 5px 
+	margin: 2px 5px; 
 }
 
 
 body {
-	background-color: #B75858; 
+	/* hex code for body background */
+	background-color: #BDA1D9;  
 	font-family: cursive, arial;
-	font-size: 87.5%
+	font-size: 87.5%;
 }
 
 h1 {
@@ -23,6 +24,7 @@ h1 {
 	font-size: 400%;
 	text-align: center;
 	text-decoration: underline;
+	background-color: #FDFBB9;
  }
  
  .figure1 {
@@ -30,9 +32,21 @@ h1 {
  }
  
  .figure2 {
-clear: left 
+clear: left; 
 }
 
 p { 
-	color: black
+	background-color: white;
+	color: #BDA1D9;
+}
+
+h2 {
+	background-color: #FDFBB9;
+	font-size: 300%;
+	text-align: center;
+	text-decoration: underline;
+}
+
+figcaption {
+	background-color: #FDFBB9;
 }
