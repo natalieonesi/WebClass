@@ -1,0 +1,48 @@
+/* 
+*Natalie Onesi
+*24 April 2018
+*Girl Develop It formatting
+*/
+
+
+
+body {
+background-color: #F8E8E7; 
+font-family: Arial;
+}
+
+header {
+background-color: #ED5E5E;
+text-align: center;
+}
+
+h1 { /* Detailing the "About" heading */
+font-style: italic; 
+font-size: 250%;
+text-decoration: underline;
+font-family: cursive;
+}
+
+h2 { /* Detailing the "Our Locations" heading */
+font-style: italic;
+font-size: 150%;
+text-decoration: underline;
+font-family: cursive; 
+}
+
+*  { 
+margin: 2px 5px;
+}
+
+.image1 {
+float: right;
+}
+
+.image2 {
+float: right;
+}
+
+a:hover {
+color: purple; 
+font-size: 150%;
+}
