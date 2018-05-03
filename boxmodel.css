@@ -1,0 +1,53 @@
+/* 
+Natalie Onesi 
+Box Model Practice 
+May 1 2018
+*/ 
+
+* {
+margin: 0;
+padding: 0;
+}
+
+p {
+border-width: 2px;
+border-style: dashed;
+border-color: black;
+padding-top: 10px;
+padding-bottom: 10px; 
+padding-right: 10px;
+padding-left: 10px;
+margin: 5px 10px 5px 10px; 
+}
+
+h1 {
+border-width: 2px;
+border-style: dashed; 
+border-color: black;
+margin: 5px 10px 5px 10px; 
+padding-top: 10px; 
+padding-bottom: 10px;
+padding-right: 10 px; 
+padding-left: 10px; 
+}
+
+body {
+border-width: 2px; 
+border-style: solid;
+padding-top: 20px;
+padding-bottom: 5px; 
+padding-right: 2px;
+padding-left: 2px;
+margin: 5px 10px 5px 10px;
+}
+
+html {
+border-width: 2px;
+border-style: dashed;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 50px; 
+margin: 5px 10px 5px 10px;
+}
+
