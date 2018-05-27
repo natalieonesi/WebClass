@@ -1,0 +1,116 @@
+/* 
+Natalie Onesi 
+Web Page Design Final Project 
+25 May 2018 
+*/
+
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+width: 100%;
+background-color: #B9E3CB;
+margin: 15px auto;
+border: 1px solid black;
+font-family: Arial, Helvectica, sans-serif;
+}
+
+h1 {
+padding: 10px;
+}
+
+header {
+border-bottom: 2px solid black; 
+text-align: center; 
+font-size: 300%;
+font-weight: bold;
+background-color: #F0EDC5;
+}
+
+#sidebarA {
+width: 10%;
+float: left;
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 10px;
+border-width: 2px; 
+border-style: solid; 
+border color: black;
+border-right: 4px solid black;
+background-color: gray;
+}
+
+main {
+width: 70%; 
+float: left;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+#sidebarB {
+width: 10%; 
+float: right; 
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 10px;
+border-left: 4px solid black;
+background-color: gray;
+}
+
+footer { 
+border-top: 2px solid black;
+clear: both;
+}
+
+.image1 { /* in sidebarA */
+height: 75px;
+width: 100px;
+border-width: 2px;
+border-style: solid;
+border-color: blue;
+padding-top: 0px;
+padding-bottom: 0px; 
+padding-right: 0px;
+padding-left: 0px;
+margin: 5px 10px 5px 10px; 
+}
+
+.image2 {
+height: 100px;
+width: 100px;
+border-width: 2px;
+border-style: solid;
+border-color: blue;
+padding-top: 0px;
+padding-bottom: 0px; 
+padding-right: 0px;
+padding-left: 0px;
+margin: 5px 10px 5px 10px; 
+}
+
+.image3 { /* In main section */
+height: 200px;
+width: 350px;
+border-width: 2px;
+border-style: solid;
+border-color: blue;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-right: 0px; 
+padding-left: 0px; 
+margin: 5px 10px 5px 10px
+float: right;
+}
+
+
+p8 {
+text-align: right;
+}
+
+h5 {
+font-size: 200%
+}
